@@ -23,7 +23,7 @@ In this project:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/video-overlay-text-animation.git
+    git clone https://github.com/SubhoSphere/videoOverlayTextAnimation.git
     ```
 
 2. Open the `index.html` file in your browser to see the effect in action.
@@ -31,7 +31,9 @@ In this project:
 3. Replace the video source and modify the text in the `index.html` file as needed to suit your project.
 
 ## File Structure
-
+- index.html
+- style.css
+- video.mp4
 
 ## Customization
 
